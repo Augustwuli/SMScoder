@@ -1,0 +1,23 @@
+{
+  "name": "smscoder",
+  "version": "1.0.0",
+  "description": "一个用JWT\u001b[D\u001b[D\u001b[D \u001b[C\u001b[C\u001b[D\u001b[DJWT 做的仿短信验证码工具",
+  "main": "app.js",
+  "scripts": {
+    "test": "test project"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Augustwuli/SMScoder.git"
+  },
+  "author": "Augustwuli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Augustwuli/SMScoder/issues"
+  },
+  "homepage": "https://github.com/Augustwuli/SMScoder#readme",
+  "dependencies": {
+    "env2": "^2.2.2",
+    "hapi": "^16.7.0"
+  }
+}
